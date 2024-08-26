@@ -1,11 +1,12 @@
 Signlanguage Transcript v 1.0
 
-The Sign Language Transcript is developed using an efficient model for translating sign
-language gestures into text. This system leverages computer vision & machine learning
-algorithms to recognize hand movements and gestures, bridging the communication gap
-between differently abled individuals and ones who do not understand sing language.
+The Sign Language Transcription system utilizes an effective model that
+converts sign language gestures into text. This system employs computer
+vision and machine learning algorithms to identify hand movements and
+gestures, thereby facilitating communication between differently abled
+individuals and those who are unfamiliar with sign language.
 
-This project presents a cutting-edge sign language transcription system designed to 
-convert static and dynamic gestures into text using Random Forests and deep learning
-technologies in realtime with an accuracy score of upto 99.2%.
-
+This project introduces a state-of-the-art sign language transcription
+system capable of translating static and dynamic gestures into text in
+real-time, achieving an accuracy rate of up to 99.2% by utilizing Random
+Forests and deep learning technologies.
